@@ -22,6 +22,10 @@ h1, h2, p {
   text-align: center;
 }
 
+p {
+  diplay: inline-block;
+}
+
 .menu {
   width: 80%;
   background-color: burlywood;
